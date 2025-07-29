@@ -1,5 +1,4 @@
 
- 
 // // This How To Get API with fetch()
 // fetch("https://pokeapi.co/api/v2/pokemon/pikachu")
 //   .then(response => {
