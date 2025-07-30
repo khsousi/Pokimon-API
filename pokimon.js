@@ -13,7 +13,6 @@
   // This How To Get The Same API with async/await 
 
 
-
 async function fetchData() {
   try {
     const pokemonName = document.getElementById("pokemonName").value.toLowerCase();
